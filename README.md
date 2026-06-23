@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0191-number-of-1-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
