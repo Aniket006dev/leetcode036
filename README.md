@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Aniket006dev/leetcode036/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Aniket006dev/leetcode036/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Aniket006dev/leetcode036/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Aniket006dev/leetcode036/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Aniket006dev/leetcode036/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Aniket006dev/leetcode036/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
