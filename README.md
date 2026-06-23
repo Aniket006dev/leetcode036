@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Aniket006dev/leetcode036/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/Aniket006dev/leetcode036/tree/main/0509-fibonacci-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +99,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniket006dev/leetcode036/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Aniket006dev/leetcode036/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Aniket006dev/leetcode036/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
