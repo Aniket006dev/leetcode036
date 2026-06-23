@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aniket006dev/leetcode036/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0191-number-of-1-bits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
