@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Aniket006dev/leetcode036/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aniket006dev/leetcode036/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
