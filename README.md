@@ -17,11 +17,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Aniket006dev/leetcode036/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -55,14 +57,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Aniket006dev/leetcode036/tree/main/0191-number-of-1-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
