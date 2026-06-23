@@ -23,8 +23,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
