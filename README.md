@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Aniket006dev/leetcode036/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aniket006dev/leetcode036/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Aniket006dev/leetcode036/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Aniket006dev/leetcode036/tree/main/0169-majority-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Aniket006dev/leetcode036/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
