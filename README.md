@@ -16,20 +16,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniket006dev/leetcode036/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aniket006dev/leetcode036/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Aniket006dev/leetcode036/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Aniket006dev/leetcode036/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Aniket006dev/leetcode036/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
